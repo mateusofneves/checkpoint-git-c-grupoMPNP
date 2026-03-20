@@ -14,6 +14,7 @@ int main(){
     //comentarios pedro commit
     printf("Pedro Soares");
     printf("Aula dia 3");
+    printf("Menino bonito");
 
     return 0;
 
