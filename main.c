@@ -4,6 +4,8 @@ int main(){
 
     //comentarios paulo
     printf("Paulo Henrique");
+    printf("Bye Bye World!");
+
 
     //comentarios mateus commit
     printf("Mateus Neves");
