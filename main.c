@@ -22,6 +22,7 @@ int main(){
     //comentarios nickolas commit
     printf("nikki");
     printf("aula tres");
+    printf("erick zika");
 
     return 0;
 
