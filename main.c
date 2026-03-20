@@ -10,6 +10,9 @@ int main(){
     printf("Professor Erick")
     printf("Comentário 3 Mateus")
 
+    //comentarios pedro commit
+    printf("Pedro Soares");
+
 
     return 0;
 
