@@ -13,7 +13,7 @@ int main(){
 
     //comentarios pedro commit
     printf("Pedro Soares");
-
+    printf("Aula dia 3");
 
     return 0;
 
