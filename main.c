@@ -19,6 +19,9 @@ int main(){
     printf("Aula dia 3");
     printf("Menino bonito");
 
+    //comentarios nickolas commit
+    printf("nikki");
+
     return 0;
 
 }
